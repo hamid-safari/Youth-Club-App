@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="meeting">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/meeting.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
