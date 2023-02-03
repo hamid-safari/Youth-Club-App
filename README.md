@@ -1,6 +1,6 @@
 <h1>Youth-Club APP</h1>
 
- ### [YouTube Demonstration](https://www.youtube.com/)
+ ### [YouTube Demonstration](https://youtu.be/GjBGdl7B5JQ)
 
 <h2>Description</h2>
 How digitization helps an organization to process faster and more efficiently than before?
@@ -16,6 +16,7 @@ happened in paper format.
 - <b>Firebase</b>
 - <b>BLoC architecture </b>
 
+<!--
 
 <h2>Program walk-through:</h2>
 
@@ -24,7 +25,7 @@ Screenshots from the APP <br/>
 <br />
 
 </p>
-
+--!>
 <!--
  ```diff
 - text in red
